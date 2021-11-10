@@ -5,10 +5,9 @@
   
   /* Style the links inside the navigation bar */
   .topnav a {
-    float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 28px 160px;
     text-decoration: none;
     font-size: 17px;
   }
@@ -25,6 +24,10 @@
     color: white;
   }
 
-#navimage {
-    margin: auto;
-}
+  .p1 {
+      text-align: center;
+  }
+
+
+
+
