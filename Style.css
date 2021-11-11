@@ -59,7 +59,7 @@
       #1163cf 20px,
       #1163cf 40px
     );
-    animation: fill-bar 1.5s normal forwardss;
+    animation: fill-bar 1.5s normal forwards;
   }
   
   @keyframes fill-bar {
