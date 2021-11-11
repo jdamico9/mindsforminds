@@ -6,8 +6,9 @@
   /* Style the links inside the navigation bar */
   .topnav a {
     color: #f2f2f2;
-    text-align: center;
     padding: 28px 30px;
+    text-align: center;
+    margin-top: auto;
     text-decoration: none;
     font-size: 17px;
   }
@@ -58,7 +59,7 @@
       #1163cf 20px,
       #1163cf 40px
     );
-    animation: fill-bar 1.5s infinite;
+    animation: fill-bar 1.5s normal forwardss;
   }
   
   @keyframes fill-bar {
@@ -118,4 +119,20 @@ button.primaryContained {
 
 button.primaryContained:hover {
 	background: #9201A8;
+}
+
+#headertitle {
+    color: white;
+    text-align: center;
+    float: right;
+    font-size: 15px; 
+}
+
+.imgresource {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 8px;
+    max-width: 100%;
+
 }
